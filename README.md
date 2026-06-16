@@ -1,4 +1,4 @@
-# Hi there, I'm EthyleneC2H4 👋
+# Hi there, I'm C2H4 👋
 
 🎓 I'm a Computer Science student at the **National University of Singapore (NUS)**.
 
@@ -6,8 +6,7 @@
 
 🌱 I'm interested in artificial intelligence, graph learning, autonomous systems, and software engineering.
 
-🛠️ I mainly work with Python, PyTorch, Java, and Linux. I also enjoy building practical projects such as [FinSight](https://github.com/EthyleneC2H4/IRS-PM-2025-09-10-AIS07FT-GRP6-FinSight) and [OnCall](https://github.com/EthyleneC2H4/OnCall).
+🛠️ I mainly work with Python, PyTorch, Java, and Linux. I also enjoy building practical projects such as [CodeYX](https://github.com/EthyleneC2H4/CodeYX) and [OnCall](https://github.com/EthyleneC2H4/OnCall).
 
 👯 I'm open to collaborating on AI/ML research and intelligent systems.
 
-🌐 Learn more at [ethyleneC2H4.github.io](https://EthyleneC2H4.github.io).
